@@ -12,7 +12,7 @@
 
 2.下载这个[文件](https://github.com/sedoruee/SegumiOS/blob/main/Obsidian%E4%BB%93%E5%BA%93.zip),并把它设置为obsidian的仓库
 
-3.安装这个[chorme扩展程式](https://chromewebstore.google.com/detail/local-explorer-open-file/eokekhgpaakbkfkmjjcbffibkencdfkl),并安装以下油猴脚本:
+3.安装这个[chorme扩展程式](https://chromewebstore.google.com/detail/local-explorer-open-file/eokekhgpaakbkfkmjjcbffibkencdfkl),并安装以下[油猴脚本](https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN):
 
 [SegumiOS Open Local Explorer from Bangumi](https://greasyfork.org/zh-TW/scripts/513641-segumios-open-local-explorer-from-bangumi)
 
