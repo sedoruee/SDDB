@@ -14,10 +14,12 @@
 
 3.安装这个[chorme扩展程式](https://chromewebstore.google.com/detail/local-explorer-open-file/eokekhgpaakbkfkmjjcbffibkencdfkl),并安装以下油猴脚本:
 
-
 [SegumiOS Open Local Explorer from Bangumi](https://greasyfork.org/zh-TW/scripts/513641-segumios-open-local-explorer-from-bangumi)
+
 [SegumiOS Open Local Explorer from bilibili](https://greasyfork.org/zh-TW/scripts/520221-segumios-open-local-explorer-from-bilibili)
+
 [Bangumi 复制到剪切板](https://greasyfork.org/zh-TW/scripts/519761-bangumi-%E5%A4%8D%E5%88%B6%E5%88%B0%E5%89%AA%E5%88%87%E6%9D%BF)
+
 [打开Obsidian笔记(from bangumi)](https://greasyfork.org/zh-TW/scripts/520223-%E6%89%93%E5%BC%80obsidian%E7%AC%94%E8%AE%B0-from-bangumi)
 
 开发中(不可用):
