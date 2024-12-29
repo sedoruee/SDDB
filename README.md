@@ -25,7 +25,9 @@
 开发中(不可用):
 [Save URL to API(bilibili) ](https://greasyfork.org/zh-TW/scripts/520222-save-url-to-api-bilibili)
 
-4.(可选)在各个设备安装[Resilio Sync](https://www.resilio.com/sync/),并同步你的仓库文件
+4.为 Obsidian仓库根目录\.code\python\移动游戏.py 创建快捷方式,并且将快捷方式放到开机启动文件夹(win+R,输入shell:startup)
+
+5.(可选)在各个设备安装[Resilio Sync](https://www.resilio.com/sync/),并同步你的仓库文件
 
 # 其他
 开发QQ群:690603113
