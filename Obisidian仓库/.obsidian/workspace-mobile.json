@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "统计.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "统计"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b90dd7c2b05f4f26",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7fb782fe07a095c7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "26936780bcbd0fbd",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "550e37e0fc290210",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "e37ac46bc8a27e45",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "667622339df1ed21",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "a6154e3d07485c2c",
+        "type": "leaf",
+        "state": {
+          "type": "runjs-codelist-view",
+          "state": {},
+          "icon": "js-dark-icon",
+          "title": "RunJS Codelist"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2aad703563dcd21e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c4f88d51456568ad",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "统计.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "4b56b024984cd81b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "统计.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "462b801fb5055123",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "统计.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "540c724b30a4ca29",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "f34081e80a5d0856",
+        "type": "leaf",
+        "state": {
+          "type": "RSS_FEED",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "runjs:RunJS": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "统计.md",
+    "影视/Iwara - 【SexDance18】 黑见芹香_Kuromi Serika PiNK CAT [RbXAkL4flUtPbh] [Source].mp4",
+    "影视/Iwara - 【💕HMV 01】Sex 超市掃貨銀狼 [hTO4GQe5H26tE8] [Source].mp4",
+    "影视/Iwara - 【SexDance19】 天童爱丽丝_Aris 乙女解剖 [JKUQHr17uKqlFQ] [Source].mp4",
+    "影视/Iwara - 【マリー_Mari】 关于偶像玛丽跳舞最终跳到了床上这件事 【Blue Archive Dance_ Sex!】 [oi5Loa5ZiGTtrL] [Source].mp4",
+    "影视/Iwara - 【SexDance25】砂狼白子_Sunaookami Shiroko Mister [M1mFBVg6Sz4SZF] [Source].mp4",
+    "000设置/素材库/流程图：黑马程序员 MySQL数据库入门到精通，从mysql安装到mysql高级、mysql优化全囊括.canvas",
+    "藏书阁/阅读/黑马程序员_MySQL数据库入门到精通，从mysql安装到mysql高级、mysql优化全囊括.md",
+    "mmexport1718368870524.mp4",
+    "000设置/素材库/流程图：がっこうぐらし！.canvas",
+    "000设置/素材库/Pasted image 20241220165625.jpg",
+    "藏书阁/阅读/Untitled.md",
+    "000设置/素材库/Pasted image 20241220165325.jpg",
+    "影视/漫画/autobackup/app.mihon_2024-12-20_16-03.tachibk",
+    "000设置/素材库/流程图：ダンダダン.canvas",
+    "000设置/素材库/超自然武装噹哒噹 - 第148话 - 11 1.webp",
+    "000设置/素材库/超自然武装噹哒噹 - 第163话 - 20.webp",
+    "000设置/素材库/超自然武装噹哒噹 - 第148话 - 11.webp",
+    "000设置/素材库/超自然武装噹哒噹 - 第148话 - 3.webp",
+    "000设置/素材库/超自然武装噹哒噹 - 第148话 - 2.webp",
+    "藏书阁/阅读/ダンダダン.md",
+    "000设置/素材库/超自然武装噹哒噹 - 第118话 - 8.webp",
+    "000设置/素材库/超自然武装噹哒噹 - 第116话 - 17.webp",
+    "000设置/素材库/超自然武装噹哒噹 - 第105话 - 18.webp",
+    "藏书阁/阅读/闇色のスノードロップス.md",
+    "藏书阁/阅读/书籍/漫画/ダンダダン.md",
+    "藏书阁/阅读/书籍/漫画/恋愛ハーレムゲーム終了のお知らせがくる頃に.md",
+    "000设置/素材库/更新随想.canvas",
+    "藏书阁/阅读/书籍/漫画/オタサーの姫殺人事件.md",
+    "000设置/素材库/流程图：オタサーの姫殺人事件.canvas",
+    "藏书阁/阅读/游戏/かたわ少女.md",
+    "000设置/素材库/流程图：かたわ少女.canvas",
+    "000设置/素材库/流程图：初三.canvas",
+    "藏书阁/阅读/影视/初三.md",
+    "藏书阁/阅读/书籍/漫画/ジンキ－人機－.md",
+    "000设置/素材库/流程图：ミスミソウ.canvas",
+    "藏书阁/阅读/书籍/漫画/ミスミソウ.md",
+    "000设置/模板/Next day.md",
+    "000设置/模板/Dataview yaml模板.md",
+    "000设置/模板/启动统计.md",
+    "000设置/模板/时间模板.md",
+    "000设置/模板/影评模板.md",
+    "影视/漫画/autobackup/app.mihon_2024-11-21_08-46.tachibk",
+    "影视/高堡奇人/S03/S03E05.mp4",
+    "随笔.md",
+    "时间线.canvas",
+    "影视/高堡奇人/S03/S03E06.mp4",
+    "000设置/素材库/未命名 5.canvas",
+    "藏书阁/阅读/游戏/JINKI EXTEND Re_VISION.md",
+    "藏书阁/阅读/游戏/車輪の国、向日葵の少女.md",
+    "藏书阁/阅读/游戏/奇异恩典·圣夜的小镇.md",
+    "藏书阁/日记/2024-10-27  星期日.md",
+    "藏书阁/日记/2024-11-11  星期一.md",
+    "藏书阁/日记/2024-10-15  星期二.md",
+    "藏书阁/日记/2024-12-31  星期二.md"
+  ]
+}
