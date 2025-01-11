@@ -53,4 +53,4 @@
 # 其他
 开发QQ群:690603113
 
-[![Star History Chart](https://api.star-history.com/svg?repos=langflow-ai/langflow&type=Timeline)](https://star-history.com/#langflow-ai/langflow&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=sedoruee/SegumiOS&type=Timeline)](https://star-history.com/#sedoruee/SegumiOS&Date)
