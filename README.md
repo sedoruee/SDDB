@@ -50,6 +50,7 @@
 - restful api替代剪贴板
 - 脱离obsidian进行渲染和编辑
 
-
 # 其他
 开发QQ群:690603113
+
+[![Star History Chart](https://api.star-history.com/svg?repos=langflow-ai/langflow&type=Timeline)](https://star-history.com/#langflow-ai/langflow&Date)
