@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "统计.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "统计"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cfa47e20eb74105",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c19bfc847bc971a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "961bbc152ef8ead9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "016596bb32caa9f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#2000s",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0ef776641c7b3137",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "11811ecc4101fa5e",
+            "type": "leaf",
+            "state": {
+              "type": "runjs-codelist-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.5
+  },
+  "right": {
+    "id": "13cdbf27d6422b8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2fb21f341646160",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "517b0fe61888da04",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "统计.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "pinned": true,
+              "icon": "links-coming-in",
+              "title": "统计 的反向链接列表"
+            }
+          },
+          {
+            "id": "f345dac8217597d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000设置/素材库/Pasted image 20241113171155.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Pasted image 20241113171155 的出链列表"
+            }
+          },
+          {
+            "id": "2b09c1d6f5be33a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2df31baa1d3bf40c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "统计.md"
+              },
+              "pinned": true,
+              "icon": "lucide-list",
+              "title": "统计 的大纲"
+            }
+          },
+          {
+            "id": "55e482b43d02c04e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "167a881db880a905",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 931.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "media-extended:Open media": false,
+      "templater-obsidian:Templater": false,
+      "runjs:RunJS": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "000设置/素材库/流程图：Spiral_Legend_II.canvas",
+    "000设置/素材库/Pasted image 20250109065305.png",
+    "000设置/素材库/Pasted image 20250109065220.png",
+    "000设置/素材库/Pasted image 20250109065204.png",
+    "000设置/素材库/Pasted image 20250109064202.png",
+    "000设置/素材库/Pasted image 20250109063948.png",
+    "000设置/素材库/Pasted image 20250109063940.png",
+    "000设置/素材库/Pasted image 20250109063915.png",
+    "000设置/素材库/Pasted image 20250109055457.png",
+    "000设置/素材库/Pasted image 20250109054145.png",
+    "000设置/素材库/Pasted image 20250109054044.png",
+    "藏书阁/阅读/Spiral_Legend_II.md",
+    "统计.md",
+    "藏书阁/阅读/Github使用教程-黑马程序员.md",
+    "藏书阁/阅读/太閤立志伝V.md",
+    "000设置/素材库/更新随想.canvas",
+    "000设置/素材库/流程图：リベリオンズ_Secret_Game_2nd_Stage.canvas",
+    "藏书阁/阅读/リベリオンズ_Secret_Game_2nd_Stage.md",
+    "000设置/素材库/obsidian串流 - 副本.py",
+    "000设置/素材库/【华东师范大学】西方美术欣赏（全60讲）孙乃树.canvas",
+    "藏书阁/阅读/【华东师范大学】西方美术欣赏（全60讲）孙乃树.md",
+    "藏书阁/阅读/鎖クサリ.md",
+    "000设置/素材库/流程图：鎖 -クサリ-.canvas",
+    "藏书阁/阅读/痕 ～きずあと～.md",
+    "000设置/素材库/流程图：痕 ～きずあと～.canvas",
+    "藏书阁/阅读/戦国†恋姫Ｘ_～乙女絢爛☆戦国絵巻～.md",
+    "000设置/素材库/流程图：戦国†恋姫Ｘ ～乙女絢爛☆戦国絵巻～.canvas",
+    "藏书阁/阅读/Blue_Archive.md",
+    "000设置/素材库/流程图：がっこうぐらし！.canvas",
+    "藏书阁/阅读/がっこうぐらし！.md",
+    "000设置/素材库/流程图：モンスターハンター：ワールド.canvas",
+    "藏书阁/阅读/モンスターハンター：ワールド.md",
+    "藏书阁/阅读/6月の君と僕.md",
+    "000设置/素材库/6月の君と僕.canvas",
+    "藏书阁/阅读/TRUE BLUE.md",
+    "000设置/素材库/流程图：",
+    "藏书阁/阅读/【C语言描述】《数据结构和算法》.md",
+    "藏书阁/阅读/黑马程序员_MySQL数据库入门到精通，从mysql安装到mysql高级、mysql优化全囊括.md",
+    "藏书阁/阅读/【完整版】《数据结构》6小时快速突击_期末不挂科必备【蜂考】.md",
+    "藏书阁/阅读/ダンダダン.md",
+    "影视/漫画/autobackup/app.mihon_2025-01-03_13-23.tachibk",
+    "影视/漫画/autobackup/app.mihon_2025-01-03_01-23.tachibk",
+    "000设置/素材库/流程图：【完整版】《数据结构》6小时快速突击.md",
+    "000设置/素材库/读书笔记：【完整版】《数据结构》6小时快速突击.md",
+    "影视/Iwara - 【マリー_Mari】 关于偶像玛丽跳舞最终跳到了床上这件事 【Blue Archive Dance_ Sex!】 [oi5Loa5ZiGTtrL] [Source].mp4",
+    "影视/Iwara - 【SexDance25】砂狼白子_Sunaookami Shiroko Mister [M1mFBVg6Sz4SZF] [Source].mp4",
+    "影视/Iwara - 【SexDance19】 天童爱丽丝_Aris 乙女解剖 [JKUQHr17uKqlFQ] [Source].mp4",
+    "影视/Iwara - 【SexDance18】 黑见芹香_Kuromi Serika PiNK CAT [RbXAkL4flUtPbh] [Source].mp4",
+    "影视/Iwara - 【💕HMV 01】Sex 超市掃貨銀狼 [hTO4GQe5H26tE8] [Source].mp4",
+    "影视/Iwara - 【マリー_Mari】 下 【Blue Archive Sex】 [OasNg6ePmnnL05] [Source].mp4",
+    "藏书阁/日记/2024-08-03  星期六.md",
+    "藏书阁/日记/2024-09-01  星期日.md",
+    "藏书阁/日记/2025-01-01.md",
+    "藏书阁/日记/2024-12-01  星期日.md",
+    "藏书阁/日记/2024-10-15  星期二.md"
+  ]
+}

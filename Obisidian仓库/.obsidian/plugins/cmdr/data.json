@@ -1,0 +1,55 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [
+    {
+      "id": "floating-settings:open-the-floating-settings",
+      "icon": "lucide-album",
+      "name": "Floating Settings: Open the Floating Settings",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:open-in-new-window",
+      "icon": "lucide-maximize",
+      "name": "在新窗口中打开当前标签页",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "templater-obsidian:000设置/脚本/Cmd-reload-page.md.md",
+      "icon": "lucide-refresh-cw",
+      "name": "Templater: Insert 000设置/脚本/Cmd-reload-page.md.md",
+      "mode": "any"
+    },
+    {
+      "id": "homepage:open-homepage",
+      "icon": "lucide-home",
+      "name": "Homepage: Open homepage",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

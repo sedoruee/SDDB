@@ -1,0 +1,9 @@
+{
+  "snapToObjects": true,
+  "snapToGrid": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "000设置/素材库",
+  "cardLabelVisibility": "always",
+  "zoomBreakpoint": 0,
+  "defaultWheelBehavior": "zoom"
+}

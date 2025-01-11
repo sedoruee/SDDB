@@ -1,0 +1,23 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Start Time": "datetime",
+    "title": "text",
+    "Rating": "number",
+    "sort": "checkbox",
+    "media": "text",
+    "End Time": "datetime",
+    "开始时间": "date",
+    "结束时间": "date",
+    "分数": "number",
+    "banner_y": "number",
+    "banner_x": "number",
+    "banner _x": "number",
+    "状态": "text",
+    "done": "text",
+    "用时": "text",
+    "搁置": "checkbox"
+  }
+}

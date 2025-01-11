@@ -1,0 +1,67 @@
+.settings-error-element {
+  font-weight: bold;
+  color: var(--background-modifier-error);
+}
+
+.with-error {
+  border-color: var(--text-error) !important;
+} 
+
+.with-success {
+  border-color: var(--text-success) !important;
+}
+
+.w100p {
+  width: 100%;
+}
+
+.h350 {
+  height: 350px;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.html-form-container {
+  width: 100%;
+  display: grid;
+  justify-content: center;
+  padding-bottom: 22px;
+}
+
+.html-login-form {
+  width: 20%;
+  min-width: 300px;
+  max-width: 450px;
+  margin: auto;
+}
+
+.html-login-form .html-login-form-label{
+  font-size: 1.1em;
+  justify-content: center;
+  display: block;
+}
+
+.html-login-form .setting-item-control input{
+  width: 100%;
+}
+
+.html-login-form .html-form-button{
+  width: 100%;
+  /* justify-content: center; */
+}
+
+.html-login-form .html-form-button button{
+  width: 100%;
+  justify-content: center;
+}
+
+.http-server-ribbon-stop-button {
+  color: var(--text-accent);
+  opacity: 0.95;
+}

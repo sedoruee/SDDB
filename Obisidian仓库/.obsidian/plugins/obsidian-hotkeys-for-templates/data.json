@@ -1,0 +1,15 @@
+{
+  "files": [
+    "日记模板.md"
+  ],
+  "templaterFiles": [],
+  "newFileTemplates": [
+    {
+      "folder": "藏书阁/日记",
+      "path": "日记模板.md",
+      "plugin": "core"
+    }
+  ],
+  "openNewFileTemplateInNewPane": true,
+  "useNewFileTemplateOnFileCreation": true
+}

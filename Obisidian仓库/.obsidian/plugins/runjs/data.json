@@ -1,0 +1,45 @@
+{
+  "autoRefresh": true,
+  "autostarts": [
+    [
+      "load",
+      true
+    ]
+  ],
+  "commands": {
+    "command-0": {
+      "name": "load",
+      "codeName": "load",
+      "enable": true,
+      "icon": "scroll"
+    },
+    "command-1": {
+      "name": "主页",
+      "codeName": "主页",
+      "enable": true,
+      "icon": "scroll"
+    }
+  },
+  "ribbonIcons": [],
+  "eventHandlers": [],
+  "scriptsFolder": "000设置/脚本",
+  "logFilePath": "000设置/脚本",
+  "logConsole": true,
+  "logNotice": true,
+  "logFile": true,
+  "listviewOpenType": "tab",
+  "listviewSortField": "name",
+  "listviewSortAsc": true,
+  "listviewFilters": {
+    "type": [
+      "script",
+      "module"
+    ],
+    "form": [
+      "codeblock",
+      "file"
+    ]
+  },
+  "listviewCollapse": {},
+  "favoriteCodes": []
+}
