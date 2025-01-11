@@ -10,7 +10,7 @@
 # 部署
 1.下载[Obsidian](https://obsidian.md/)
 
-2.下载这个[文件](https://github.com/sedoruee/SegumiOS/blob/main/Obsidian%E4%BB%93%E5%BA%93.zip),并把它设置为obsidian的仓库(注意压缩包内有一个隐藏文件夹)
+2.下载[obsidian的仓库](https://github.com/sedoruee/SegumiOS/releases)(注意压缩包可能有隐藏文件)
 
 3.安装这个[chorme扩展程式](https://chromewebstore.google.com/detail/local-explorer-open-file/eokekhgpaakbkfkmjjcbffibkencdfkl),并安装以下[油猴脚本](https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN):<p style="color:red; font-size: 2em;"><strong>记得把脚本内的路径改为你的本地路径!!!</strong></p>
 
