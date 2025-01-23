@@ -1,5 +1,5 @@
-# SegumiOS(Segumi obsidian system)
-一个基于Obsidian的本地点格子的系统,目前仍在开发中.
+# SDDB
+一个现阶段基于Obsidian的本地点格子的系统,目前仍在开发中.
 
 # 效果预览
 ![Homepage image](docs/static/img/Homepage.png)
