@@ -10,7 +10,7 @@
 # 部署
 1.下载[Obsidian](https://obsidian.md/)
 
-2.下载[obsidian的仓库](https://github.com/sedoruee/SegumiOS/releases)(注意压缩包可能有隐藏文件)
+2.下载[obsidian的仓库](https://github.com/sedoruee/SegumiOS/releases)(注意压缩包可能有隐藏文件)并将压缩包解压到D:\Obsidian文件夹内（路径是写死的请尽量不要修改）
 
 3.安装这个[chorme扩展程式](https://chromewebstore.google.com/detail/local-explorer-open-file/eokekhgpaakbkfkmjjcbffibkencdfkl),并安装以下[油猴脚本](https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN):<p style="color:red; font-size: 2em;"><strong>记得创建一个本地游戏库,并且把脚本内的路径改为你的本地游戏库路径!!!</strong></p>
 
@@ -30,6 +30,8 @@
 5.(可选)安装[侧边栏](https://github.com/sedoruee/Windows-Sidebar)并且将plugins\最近的项目.py设置为开机启动.最近的项目.py可以从本地游戏库里自动移动玩过的游戏到指定的其他任意文件夹
 
 6.(可选)在各个设备安装[Resilio Sync](https://www.resilio.com/sync/),并同步你的仓库文件
+
+7.请将bgm_sync_start.py和bgm_sync_run.py移动到C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup文件夹下（路径是写死的请尽量不要修改），并且把bgm_sync_run.py设置为开机启动
 
 # 未来更新
 ## 短期目标
