@@ -7,6 +7,11 @@
 ![2024-12-09](docs/static/img/2024-12-09_17_44_14.png)
 ![image](docs/static/img/image2.png)
 
+# 三件套必须同时使用
+[https://github.com/sedoruee/SDDB](https://github.com/sedoruee/SDDB)
+[https://github.com/sedoruee/Windows-Sidebar](https://github.com/sedoruee/Windows-Sidebar)
+[https://github.com/sedoruee/Save_Manager](https://github.com/sedoruee/Save_Manager)
+
 # 部署
 1.下载[Obsidian](https://obsidian.md/)
 
